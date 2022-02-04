@@ -6,4 +6,4 @@
 
 
 ## Stats
- ![GITHUB_STAT_OVERALL](https://github-readme-stats.vercel.app/api?username=xinnie-the-pooh)
+ ![GITHUB_STAT_OVERALL](https://github-readme-stats.vercel.app/api?username=xinnie-the-pooh&include_all_commits=true)
