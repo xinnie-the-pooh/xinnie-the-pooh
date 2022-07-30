@@ -1,4 +1,4 @@
-### Hi there 👋
+### привет, товарищ！！ 
 - 🌱 I’m currently learing the stupid and usless law
 -We shall never surrender!
 
