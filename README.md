@@ -1,12 +1,8 @@
-### привет, товарищ！！ 
-- 🌱 I’m currently learing the stupid and usless law
--We shall never surrender!
+### 欢迎回来,我的朋友！！ 
+- 🌱 Calculus so difficult..
+- 👀 And i want to be a DR.
 
-lib.cccp.work:3000 
-
--this is the link of my calibre e-book lib,you can try it!
-
--经乱离后天恩流夜郎忆旧游书怀赠江夏韦太守良宰
+-经乱离后天恩流夜郎忆旧游书怀赠江夏韦太守良宰🤣
 
 天上白玉京，十二楼五城。仙人抚我顶，结发受长生。误逐世间乐，颇穷理乱情。九十六圣君，浮云挂空名。
 天地赌一掷，未能忘战争。试涉霸王略，将期轩冕荣。时命乃大谬，弃之海上行。学剑翻自哂，为文竟何成。
@@ -40,4 +36,4 @@ lib.cccp.work:3000
 
 ## Stats
  ![GITHUB_STAT_OVERALL](https://github-readme-stats.vercel.app/api?username=xinnie-the-pooh&include_all_commits=true)
-## somebody like to set flag and destroy it--you know who！
+
