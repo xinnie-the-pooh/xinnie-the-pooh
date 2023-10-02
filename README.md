@@ -18,9 +18,9 @@
 特别感谢以下各位的帮助,我将永远记得.
 
 
-感激栽培:DR.gong-wendong\Prof.jia-jungang\Prof.bai-zhifeng\MA.chen-qiang
+感激栽培:DR.gong-wendong\Prof.jia-jungang\Prof.bai-zhifeng\MA.chen-qiang\chef.wan-changcheng\chef.zong-xiang
 
-多谢相伴:DR.cui-yuqing\DR.chen-hongzheng\Prof.lin-yuliang\listen-xu\thorinkong\Jason-sun\
+多谢相伴:DR.cui-yuqing\DR.chen-hongzheng\Prof.lin-yuliang\sm.listen-xu\sb.thorinkong\sb.Jason-sun
 
 ## Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinnie-the-pooh)
