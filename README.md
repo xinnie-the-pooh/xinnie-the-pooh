@@ -1,7 +1,7 @@
 ### 欢迎回来,我的朋友！！ 
 - 🌱 Calculus so difficult..
 - 👀 And i want to be a DR.
-- 行星快递 https://xinnie-the-pooh.github.io/
+
 
 在通往真理的方向大步向前,尽管满是荆棘,于是血与泪的日夜,深爱过的人都渐行渐远,深爱的世界陷入混乱.所以我选择过程,因为开始无法选择,结束无法预料.
 
