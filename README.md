@@ -26,5 +26,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinnie-the-pooh)
 
 ## Stats
- ![GITHUB_STAT_OVERALL](https://github-readme-stats.vercel.app/api?username=xinnie-the-pooh&include_all_commits=false&count_private=true&show_icons=true&theme=swift)
+[![Prime's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinnie-the-pooh)](https://github.com/anuraghazra/github-readme-stats)
 
