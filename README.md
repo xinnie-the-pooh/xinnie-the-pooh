@@ -10,13 +10,15 @@
 当然,弃坑之人将会被我钉在首页的耻辱柱上.
 
 
-耻辱柱:han-hao\guo-zeyan\wang-haozhu\hu-junwei
+耻辱柱:han-hao\guo-zeyan\wang-haozhu\hu-junwei\gao-xin\zheng-zheng
 
 
-特别感谢以下各位的栽培和帮助,我将永远记得.
+特别感谢以下各位的帮助,我将永远记得.
 
 
-特别感谢:DR.gong-wendong\DR.cui-yuqing\DR.chen-hongzheng\Prof.lin-yuliang\Prof.jia-jungang\MA.chen-qiang
+感激栽培:DR.gong-wendong\Prof.jia-jungang\Prof.bai-zhifeng\MA.chen-qiang
+
+多谢相伴:DR.cui-yuqing\DR.chen-hongzheng\Prof.lin-yuliang\listen-xu\thorinkong\Jason-sun\
 
 ## Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinnie-the-pooh)
