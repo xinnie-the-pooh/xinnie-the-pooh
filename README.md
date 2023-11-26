@@ -7,4 +7,9 @@
 
 片面不会深刻,广泛才能永恒.以信念之力,创造未来辉煌.不负爱我的人,不负我自己.
 
-2023-11 脱敏
+NOW ON https://lib.cccp.work:3001
+
+2023-12 You could get free e-book from our united-library ,If password do exist,look up from lib issue.
+
+清河联合图书馆现已试运行!你可以在issues里找到端口号和密码!
+
