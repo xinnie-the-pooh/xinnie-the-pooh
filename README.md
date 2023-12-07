@@ -10,6 +10,6 @@
 IPV^6 SEVER NOW ON http://lib.cccp.work:3001
 
 2023-12 You could get free e-book from our tna-united-library ,If password do exist,look up from lib issue.
-
-清河(TNA)联合图书馆现已试运行!你可以在issues里找到端口号和密码!
+图书馆目前停机
+//清河(TNA)联合图书馆现已试运行!你可以在issues里找到端口号和密码!
 
