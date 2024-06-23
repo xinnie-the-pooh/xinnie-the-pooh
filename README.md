@@ -7,9 +7,6 @@
 
 片面不会深刻,广泛才能永恒.以信念之力,创造未来辉煌.不负爱我的人,不负我自己.
 
-IPV^6 SEVER NOW ON http://lib.cccp.work:3001
+email me：admin@cccp.work
 
-2023-12 You could get free e-book from our tna-united-library ,If password do exist,look up from lib issue.
-图书馆目前停机
-//清河(TNA)联合图书馆现已试运行!你可以在issues里找到端口号和密码!
 
